@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\AAction.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:snippets\\Actions\\AAction.mqh||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\mq5-templates\\v17\\DocumentLayout.backup.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\mq5-templates\\v17\\DocumentLayout.backup.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\AppData\\Local\\Temp\\TFSTemp\\vctmp448_201207.DocumentLayout.9b075aba.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\AppData\\Roaming\\NuGet\\NuGet.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
@@ -14,16 +17,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\FUNDING.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\mq5-templates\\v17\\DocumentLayout.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\mq5-templates\\v17\\DocumentLayout.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\AAction.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:snippets\\Actions\\AAction.mqh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\tasks.vs.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\VSWorkspaceState.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\VSWorkspaceState.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\tasks.vs.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\mq5-templates\\v17\\DocumentLayout.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\mq5-templates\\v17\\DocumentLayout.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Conditions\\patterns\\AscendingBarCondition.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -73,8 +80,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AAction.mqh",
+              "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\AAction.mqh",
+              "RelativeDocumentMoniker": "snippets\\Actions\\AAction.mqh",
+              "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\AAction.mqh",
+              "RelativeToolTip": "snippets\\Actions\\AAction.mqh",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPY6Aq\u002BP//P5RFPcAMpTGAKB8jk7sBC/vHb///ffnBQLTNTFAaA8iJMMkV\u002BLIXq0gyqUCFiAI4DQQCISB2BWIxMI9IgM9ARiAGyYNoogE\u002BA8kCBA2002JmiLZjFQFhO22ccQgHOFVICTJJuRuyBClLMGsbKzNHAnGQngKz3IsP/249fP3/K1QZBiDkQgEgNgTi7UC8Q4SXMb4ikD1DV56JEySJDRAy8Oenb/8rAjq\u002BTgho/zoByK7j5mB0ZGNhlIfKYwBCBr7t2vDz6fsvDP/ff2X437X\u002B5zOgGCiRc4FlsQByYhkU7jiTEjkG4gV0NRAUVv\u002BgNAxgE0MB\u002BAx8B8S7gfgVmAcBr4EYJAaSIw2Aiq9AcxYOSUFGuKUgNkgMJAcVGnKAgQEALtFFeHmtLx0AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-30T16:37:40.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vctmp448_201207.DocumentLayout.9b075aba.json",
+              "DocumentMoniker": "C:\\Users\\a0912\\AppData\\Local\\Temp\\TFSTemp\\vctmp448_201207.DocumentLayout.9b075aba.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\TFSTemp\\vctmp448_201207.DocumentLayout.9b075aba.json",
+              "ToolTip": "C:\\Users\\a0912\\AppData\\Local\\Temp\\TFSTemp\\vctmp448_201207.DocumentLayout.9b075aba.json [\u552F\u8B80]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\TFSTemp\\vctmp448_201207.DocumentLayout.9b075aba.json [\u552F\u8B80]",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAABAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T17:16:03.241Z",
+              "EditorCaption": " [\u552F\u8B80]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentLayout.backup.json",
+              "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\mq5-templates\\v17\\DocumentLayout.backup.json",
+              "RelativeDocumentMoniker": ".vs\\mq5-templates\\v17\\DocumentLayout.backup.json",
+              "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\mq5-templates\\v17\\DocumentLayout.backup.json",
+              "RelativeToolTip": ".vs\\mq5-templates\\v17\\DocumentLayout.backup.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T17:13:29.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\a0912\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ToolTip": "C:\\Users\\a0912\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-30T16:44:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FUNDING.yml",
+              "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.github\\FUNDING.yml",
+              "RelativeDocumentMoniker": ".github\\FUNDING.yml",
+              "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.github\\FUNDING.yml",
+              "RelativeToolTip": ".github\\FUNDING.yml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-30T16:37:31.003Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -83,209 +154,140 @@
               "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\tasks.vs.json",
               "RelativeToolTip": ".vs\\tasks.vs.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T16:54:40.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:54:40.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "VSWorkspaceState.json",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\VSWorkspaceState.json",
               "RelativeDocumentMoniker": ".vs\\VSWorkspaceState.json",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\VSWorkspaceState.json",
               "RelativeToolTip": ".vs\\VSWorkspaceState.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T16:51:21.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:51:21.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DocumentLayout.json",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\mq5-templates\\v17\\DocumentLayout.json",
               "RelativeDocumentMoniker": ".vs\\mq5-templates\\v17\\DocumentLayout.json",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.vs\\mq5-templates\\v17\\DocumentLayout.json",
               "RelativeToolTip": ".vs\\mq5-templates\\v17\\DocumentLayout.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T16:48:15.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:48:15.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NuGet.Config",
-              "DocumentMoniker": "C:\\Users\\a0912\\AppData\\Roaming\\NuGet\\NuGet.Config",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
-              "ToolTip": "C:\\Users\\a0912\\AppData\\Roaming\\NuGet\\NuGet.Config",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-30T16:44:16.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FUNDING.yml",
-              "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.github\\FUNDING.yml",
-              "RelativeDocumentMoniker": ".github\\FUNDING.yml",
-              "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\.github\\FUNDING.yml",
-              "RelativeToolTip": ".github\\FUNDING.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-30T16:37:31.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AAction.mqh",
-              "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\AAction.mqh",
-              "RelativeDocumentMoniker": "snippets\\Actions\\AAction.mqh",
-              "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\AAction.mqh",
-              "RelativeToolTip": "snippets\\Actions\\AAction.mqh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPY6Aq\u002BP//P5RFPcAMpTGAKB8jk7sBC/vHb///ffnBQLTNTFAaA8iJMMkV\u002BLIXq0gyqUCFiAI4DQQCISB2BWIxMI9IgM9ARiAGyYNoogE\u002BA8kCBA2002JmiLZjFQFhO22ccQgHOFVICTJJuRuyBClLMGsbKzNHAnGQngKz3IsP/249fP3/K1QZBiDkQgEgNgTi7UC8Q4SXMb4ikD1DV56JEySJDRAy8Oenb/8rAjq\u002BTgho/zoByK7j5mB0ZGNhlIfKYwBCBr7t2vDz6fsvDP/ff2X437X\u002B5zOgGCiRc4FlsQByYhkU7jiTEjkG4gV0NRAUVv\u002BgNAxgE0MB\u002BAx8B8S7gfgVmAcBr4EYJAaSIw2Aiq9AcxYOSUFGuKUgNkgMJAcVGnKAgQEALtFFeHmtLx0AAAAASUVORK5CYII=",
-              "WhenOpened": "2025-01-30T16:37:40.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AscendingBarCondition.mqh",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Conditions\\patterns\\AscendingBarCondition.mqh",
               "RelativeDocumentMoniker": "snippets\\Conditions\\patterns\\AscendingBarCondition.mqh",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Conditions\\patterns\\AscendingBarCondition.mqh",
               "RelativeToolTip": "snippets\\Conditions\\patterns\\AscendingBarCondition.mqh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPY6Aq\u002BP//P5RFPcAMpTGAKB8jk7sBC/vHb///ffnBQLTNTFAaA8iJMMkV\u002BLIXq0gyqUCFiAI4DQQCISB2BWIxMI9IgM9ARiAGyYNoogE\u002BA8kCBA2002JmiLZjFQFhO22ccQgHOFVICTJJuRuyBClLMGsbKzNHAnGQngKz3IsP/249fP3/K1QZBiDkQgEgNgTi7UC8Q4SXMb4ikD1DV56JEySJDRAy8Oenb/8rAjq\u002BTgho/zoByK7j5mB0ZGNhlIfKYwBCBr7t2vDz6fsvDP/ff2X437X\u002B5zOgGCiRc4FlsQByYhkU7jiTEjkG4gV0NRAUVv\u002BgNAxgE0MB\u002BAx8B8S7gfgVmAcBr4EYJAaSIw2Aiq9AcxYOSUFGuKUgNkgMJAcVGnKAgQEALtFFeHmtLx0AAAAASUVORK5CYII=",
-              "WhenOpened": "2025-01-30T16:39:19.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-01-30T16:39:19.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "readme.md",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\readme.md",
               "RelativeDocumentMoniker": "templates\\readme.md",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\readme.md",
               "RelativeToolTip": "templates\\readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-01-30T16:41:39.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:41:39.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "dashboard.mq5",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\dashboard.mq5",
               "RelativeDocumentMoniker": "templates\\dashboard.mq5",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\dashboard.mq5",
               "RelativeToolTip": "templates\\dashboard.mq5",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHJSURBVDhPY6Aq\u002BP//P5RFPcAIpTGAKB\u002BjqI0msweQyQsRQQF3N5/\u002Bs/vPP4Z/UD4c4DTQWInZrC\u002BJYz2QKQkRQQELPZu/pn/7yfALyocDJiiNDbADMcx134D4IxJ\u002BAsQYrgMBrC7kYmNg2F7H7Qpk7oSIMITa13xdC2XjBbhcCLJIEMIEg6dQmiBghtIogJWZgSnGns0WyPSGiDAc/v2HQUhPnpn53z\u002BGz68//cfqXRDAZyDIy04QEQYDY2VmLyB20ZJjFrj04N\u002BN91///4DKoQBivawAxKpAbK0oxtQwIYkjkYMNu2OwGvjvP8P/15/\u002BnQPiGCDWAGKFt5//NQKlQK7i5udmLAWmU26wYjSAMx2iAxFeRt615VxzgMxQiAiDBTDmT0HZcIAvHaKDP0AMSn8wgNUxpBgISuiGECbDeyC\u002BA2GiAqIMXJzPybK4gLMByAQlJRBYE9T59ROUjQKwOvtgC7cskOoE4rtALADE7kCsAsQ/gfjEyw//suImfr/\u002B4zeQhwZwGagLpLYBsRgQg9SAXPMIaNDB8/f/zl5\u002B\u002BPe1B6\u002BwF31YDQw0Z\u002BEDUvZALAHEoGD5AMR3n73/f/Xkrb/fgewhCxgYAPdGg0aWjqwkAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-01-30T16:41:35.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:41:35.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "EA_Base.mq5",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\EA_Base.mq5",
               "RelativeDocumentMoniker": "templates\\EA_Base.mq5",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\EA_Base.mq5",
               "RelativeToolTip": "templates\\EA_Base.mq5",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHJSURBVDhPY6Aq\u002BP//P5RFPcAIpTGAKB\u002BjqI0msweQyQsRQQF3N5/\u002Bs/vPP4Z/UD4c4DTQWInZrC\u002BJYz2QKQkRQQELPZu/pn/7yfALyocDJiiNDbADMcx134D4IxJ\u002BAsQYrgMBrC7kYmNg2F7H7Qpk7oSIMITa13xdC2XjBbhcCLJIEMIEg6dQmiBghtIogJWZgSnGns0WyPSGiDAc/v2HQUhPnpn53z\u002BGz68//cfqXRDAZyDIy04QEQYDY2VmLyB20ZJjFrj04N\u002BN91///4DKoQBivawAxKpAbK0oxtQwIYkjkYMNu2OwGvjvP8P/15/\u002BnQPiGCDWAGKFt5//NQKlQK7i5udmLAWmU26wYjSAMx2iAxFeRt615VxzgMxQiAiDBTDmT0HZcIAvHaKDP0AMSn8wgNUxpBgISuiGECbDeyC\u002BA2GiAqIMXJzPybK4gLMByAQlJRBYE9T59ROUjQKwOvtgC7cskOoE4rtALADE7kCsAsQ/gfjEyw//suImfr/\u002B4zeQhwZwGagLpLYBsRgQg9SAXPMIaNDB8/f/zl5\u002B\u002BPe1B6\u002BwF31YDQw0Z\u002BEDUvZALAHEoGD5AMR3n73/f/Xkrb/fgewhCxgYAPdGg0aWjqwkAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-01-30T16:41:36.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:41:36.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "arrows_indicator.mq5",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\arrows_indicator.mq5",
               "RelativeDocumentMoniker": "templates\\arrows_indicator.mq5",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\templates\\arrows_indicator.mq5",
               "RelativeToolTip": "templates\\arrows_indicator.mq5",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHJSURBVDhPY6Aq\u002BP//P5RFPcAIpTGAKB\u002BjqI0msweQyQsRQQF3N5/\u002Bs/vPP4Z/UD4c4DTQWInZrC\u002BJYz2QKQkRQQELPZu/pn/7yfALyocDJiiNDbADMcx134D4IxJ\u002BAsQYrgMBrC7kYmNg2F7H7Qpk7oSIMITa13xdC2XjBbhcCLJIEMIEg6dQmiBghtIogJWZgSnGns0WyPSGiDAc/v2HQUhPnpn53z\u002BGz68//cfqXRDAZyDIy04QEQYDY2VmLyB20ZJjFrj04N\u002BN91///4DKoQBivawAxKpAbK0oxtQwIYkjkYMNu2OwGvjvP8P/15/\u002BnQPiGCDWAGKFt5//NQKlQK7i5udmLAWmU26wYjSAMx2iAxFeRt615VxzgMxQiAiDBTDmT0HZcIAvHaKDP0AMSn8wgNUxpBgISuiGECbDeyC\u002BA2GiAqIMXJzPybK4gLMByAQlJRBYE9T59ROUjQKwOvtgC7cskOoE4rtALADE7kCsAsQ/gfjEyw//suImfr/\u002B4zeQhwZwGagLpLYBsRgQg9SAXPMIaNDB8/f/zl5\u002B\u002BPe1B6\u002BwF31YDQw0Z\u002BEDUvZALAHEoGD5AMR3n73/f/Xkrb/fgewhCxgYAPdGg0aWjqwkAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-01-30T16:39:44.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:39:44.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "readme.md",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Conditions\\patterns\\readme.md",
               "RelativeDocumentMoniker": "snippets\\Conditions\\patterns\\readme.md",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Conditions\\patterns\\readme.md",
               "RelativeToolTip": "snippets\\Conditions\\patterns\\readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-01-30T16:39:21.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:39:21.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TrailingPipsAction.mqh",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\TrailingPipsAction.mqh",
               "RelativeDocumentMoniker": "snippets\\Actions\\TrailingPipsAction.mqh",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\TrailingPipsAction.mqh",
               "RelativeToolTip": "snippets\\Actions\\TrailingPipsAction.mqh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPY6Aq\u002BP//P5RFPcAMpTGAKB8jk7sBC/vHb///ffnBQLTNTFAaA8iJMMkV\u002BLIXq0gyqUCFiAI4DQQCISB2BWIxMI9IgM9ARiAGyYNoogE\u002BA8kCBA2002JmiLZjFQFhO22ccQgHOFVICTJJuRuyBClLMGsbKzNHAnGQngKz3IsP/249fP3/K1QZBiDkQgEgNgTi7UC8Q4SXMb4ikD1DV56JEySJDRAy8Oenb/8rAjq\u002BTgho/zoByK7j5mB0ZGNhlIfKYwBCBr7t2vDz6fsvDP/ff2X437X\u002B5zOgGCiRc4FlsQByYhkU7jiTEjkG4gV0NRAUVv\u002BgNAxgE0MB\u002BAx8B8S7gfgVmAcBr4EYJAaSIw2Aiq9AcxYOSUFGuKUgNkgMJAcVGnKAgQEALtFFeHmtLx0AAAAASUVORK5CYII=",
-              "WhenOpened": "2025-01-30T16:37:54.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:37:54.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "DescendingBarCondition.mqh",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Conditions\\patterns\\DescendingBarCondition.mqh",
               "RelativeDocumentMoniker": "snippets\\Conditions\\patterns\\DescendingBarCondition.mqh",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Conditions\\patterns\\DescendingBarCondition.mqh",
               "RelativeToolTip": "snippets\\Conditions\\patterns\\DescendingBarCondition.mqh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPY6Aq\u002BP//P5RFPcAMpTGAKB8jk7sBC/vHb///ffnBQLTNTFAaA8iJMMkV\u002BLIXq0gyqUCFiAI4DQQCISB2BWIxMI9IgM9ARiAGyYNoogE\u002BA8kCBA2002JmiLZjFQFhO22ccQgHOFVICTJJuRuyBClLMGsbKzNHAnGQngKz3IsP/249fP3/K1QZBiDkQgEgNgTi7UC8Q4SXMb4ikD1DV56JEySJDRAy8Oenb/8rAjq\u002BTgho/zoByK7j5mB0ZGNhlIfKYwBCBr7t2vDz6fsvDP/ff2X437X\u002B5zOgGCiRc4FlsQByYhkU7jiTEjkG4gV0NRAUVv\u002BgNAxgE0MB\u002BAx8B8S7gfgVmAcBr4EYJAaSIw2Aiq9AcxYOSUFGuKUgNkgMJAcVGnKAgQEALtFFeHmtLx0AAAAASUVORK5CYII=",
-              "WhenOpened": "2025-01-30T16:39:20.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:39:20.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "EntryAction.mqh",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\EntryAction.mqh",
               "RelativeDocumentMoniker": "snippets\\Actions\\EntryAction.mqh",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\EntryAction.mqh",
               "RelativeToolTip": "snippets\\Actions\\EntryAction.mqh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPY6Aq\u002BP//P5RFPcAMpTGAKB8jk7sBC/vHb///ffnBQLTNTFAaA8iJMMkV\u002BLIXq0gyqUCFiAI4DQQCISB2BWIxMI9IgM9ARiAGyYNoogE\u002BA8kCBA2002JmiLZjFQFhO22ccQgHOFVICTJJuRuyBClLMGsbKzNHAnGQngKz3IsP/249fP3/K1QZBiDkQgEgNgTi7UC8Q4SXMb4ikD1DV56JEySJDRAy8Oenb/8rAjq\u002BTgho/zoByK7j5mB0ZGNhlIfKYwBCBr7t2vDz6fsvDP/ff2X437X\u002B5zOgGCiRc4FlsQByYhkU7jiTEjkG4gV0NRAUVv\u002BgNAxgE0MB\u002BAx8B8S7gfgVmAcBr4EYJAaSIw2Aiq9AcxYOSUFGuKUgNkgMJAcVGnKAgQEALtFFeHmtLx0AAAAASUVORK5CYII=",
-              "WhenOpened": "2025-01-30T16:37:49.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:37:49.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "readme.md",
               "DocumentMoniker": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\readme.md",
               "RelativeDocumentMoniker": "snippets\\Actions\\readme.md",
               "ToolTip": "C:\\Users\\a0912\\source\\repos\\CH503822\\mq5-templates\\snippets\\Actions\\readme.md",
               "RelativeToolTip": "snippets\\Actions\\readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-01-30T16:37:44.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T16:37:44.497Z"
             },
             {
               "$type": "Bookmark",
