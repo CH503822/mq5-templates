@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u5DE5\u4F5C-mq5-templates",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
