@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u5DE5\u4F5C-mq5-templates",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "\u5DE5\u4F5C-EA_Base",
+      "appliesTo": "templates/EA_Base.mq5",
+      "type": "launch"
+    }
+  ]
+}
