@@ -1,5 +1,5 @@
 // ProfitRobots Dashboard template v.1.6
-// You can find more templates at https://github.com/sibvic/mq4-templates
+// You can find more templates at https://github.com/sibvic/mq5-templates
 
 #property indicator_separate_window
 #property strict
@@ -49,7 +49,8 @@ input bool alert_on_close = false; // Alert on bar close
 
 string   WindowName;
 
-#include <conditions/ACondition.mqh>
+#include <Conditions/ACondition.mqh>
+#include <Conditions/IConditionFactory.mqh>
 
 class UpCondition : public ACondition
 {
@@ -78,16 +79,19 @@ public:
       return false;
    }
 };
-
-ICondition* CreateUpCondition(string symbol, ENUM_TIMEFRAMES timeframe)
+class ConditionFactory : public IConditionFactory
 {
-   return new UpCondition(symbol, timeframe);
-}
+public:
+   ICondition* CreateUpCondition(string symbol, ENUM_TIMEFRAMES timeframe)
+   {
+      return new UpCondition(symbol, timeframe);
+   }
 
-ICondition* CreateDownCondition(string symbol, ENUM_TIMEFRAMES timeframe)
-{
-   return new DownCondition(symbol, timeframe);
-}
+   ICondition* CreateDownCondition(string symbol, ENUM_TIMEFRAMES timeframe)
+   {
+      return new DownCondition(symbol, timeframe);
+   }
+};
 
 // Dashboard v.1.2
 class Iterator
@@ -104,6 +108,7 @@ public:
 #include <Grid/TrendValueCellFactory.mqh>
 
 Grid *grid;
+ConditionFactory* conditionFactory;
 
 #include <Grid/GridBuilder.mqh>
 string IndicatorObjPrefix;
@@ -139,12 +144,13 @@ int OnInit(void)
    IndicatorSetString(INDICATOR_SHORTNAME, "...");
    IndicatorSetInteger(INDICATOR_DIGITS, Digits());
 
-   GridBuilder builder(x_shift, 50, cell_height, cell_height, display_mode == Vertical, corner);
-   TrendValueCellFactory* factory = new TrendValueCellFactory(alert_on_close ? 1 : 0, Up_Color, Dn_Color, historical_Up_Color, historical_Dn_Color);
+   GridBuilder builder(cell_height, cell_height, display_mode == Vertical, corner, font_size, neutral_color, ChartWindowFind());
+   conditionFactory = new ConditionFactory();
+   TrendValueCellFactory* factory = new TrendValueCellFactory(conditionFactory, alert_on_close ? 1 : 0, Up_Color, Dn_Color, historical_Up_Color, historical_Dn_Color);
    factory.SetNeutralColor(neutral_color);
    factory.SetButtonTextColor(button_text_color);
    builder.AddCell(factory);
-   builder.SetSymbols(Pairs);
+   builder.SetSymbols(Pairs, x_shift, 50);
 
    if (Include_M1)
       builder.AddTimeframe("M1", PERIOD_M1);
@@ -172,6 +178,7 @@ int OnInit(void)
 
 void OnDeinit(const int reason)
 {
+   delete conditionFactory;
    ObjectsDeleteAll(ChartID(), IndicatorObjPrefix);
    delete grid;
    grid = NULL;
@@ -188,7 +195,7 @@ int OnCalculate(const int rates_total,
                 const long &volume[],
                 const int &spread[])
 {
-   grid.Draw();
+   grid.Draw(x_shift, 50);
    
    return 0;
 }

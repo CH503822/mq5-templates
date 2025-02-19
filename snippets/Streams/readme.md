@@ -155,3 +155,47 @@ Equivalent to highestbars from TradingView.
 ## LowestBarsStream
 
 Equivalent to lowestbars from TradingView.
+
+## ColoredFill
+
+Multi-colored PS-like Fill()
+
+## CandleStreams
+
+Stream of candles
+
+## BarsSinceStreamV2
+
+Counts number of bars since last condition.
+
+## ValueWhenSimpleStream
+
+PineScript-like valuewhen.
+
+## PivotLowStream
+
+PineScript-like pivotlow
+
+## PivotHighStream
+
+PineScript-like pivothigh
+
+## CumOnStream
+
+Calculates cumulative value. Similar to cum() in PineScript
+
+## DateTimeStream
+
+Return date/time of the specified symbol/timeframe for the specified bar of the current chart.
+
+## OBVStream
+
+On balance volume stream
+
+## RisingStream
+
+Returns true when value > than previous (length). Similar to ta.rising from Pine Script
+
+## FallingStream
+
+Returns true when value < than previous (length). Similar to ta.falling from Pine Script
